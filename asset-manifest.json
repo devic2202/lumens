@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lumens/static/css/main.8cef7122.css",
+    "main.js": "/lumens/static/js/main.6ff7e442.js",
+    "static/js/787.2af910bd.chunk.js": "/lumens/static/js/787.2af910bd.chunk.js",
+    "static/media/bell.svg": "/lumens/static/media/bell.a53595a200d682ea765dfd79b7772ea0.svg",
+    "static/media/bell-2.svg": "/lumens/static/media/bell-2.60a5ecb7a60ff047279b1824e5e9b4a3.svg",
+    "static/media/user-2.svg": "/lumens/static/media/user-2.9f586aadf7cc82796657aeba150d0d30.svg",
+    "index.html": "/lumens/index.html",
+    "static/media/home.svg": "/lumens/static/media/home.7b62ede131d8f748534d7106f264ad7f.svg",
+    "static/media/user-1.svg": "/lumens/static/media/user-1.574de4f50447597f2e70aef7a7d4a3a1.svg",
+    "static/media/card.svg": "/lumens/static/media/card.71a6126b42b626090a35a27060038307.svg",
+    "static/media/line-card.svg": "/lumens/static/media/line-card.bd4c91618953448527e3eae21a448f79.svg",
+    "static/media/point.svg": "/lumens/static/media/point.79bbd613554fd89089ea3a3120eb4e40.svg",
+    "main.8cef7122.css.map": "/lumens/static/css/main.8cef7122.css.map",
+    "main.6ff7e442.js.map": "/lumens/static/js/main.6ff7e442.js.map",
+    "787.2af910bd.chunk.js.map": "/lumens/static/js/787.2af910bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cef7122.css",
+    "static/js/main.6ff7e442.js"
+  ]
+}
