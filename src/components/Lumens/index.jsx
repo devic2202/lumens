@@ -21,6 +21,30 @@ function Lumens(props) {
         </p>
       </div>
       <div className="sub-title">
+        <div className="box">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div className="bubble">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
         <p className="title-value">Available Coin balance</p>
         <p className="value">340</p>
         <Progress percent={70} showInfo={false} />
