@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lumens/static/css/main.8cef7122.css",
-    "main.js": "/lumens/static/js/main.d435d53f.js",
+    "main.css": "/lumens/static/css/main.ac5419e0.css",
+    "main.js": "/lumens/static/js/main.29594ae7.js",
     "static/js/787.2af910bd.chunk.js": "/lumens/static/js/787.2af910bd.chunk.js",
-    "static/media/bell.svg": "/lumens/static/media/bell.a53595a200d682ea765dfd79b7772ea0.svg",
-    "static/media/bell-2.svg": "/lumens/static/media/bell-2.60a5ecb7a60ff047279b1824e5e9b4a3.svg",
-    "static/media/user-2.svg": "/lumens/static/media/user-2.9f586aadf7cc82796657aeba150d0d30.svg",
+    "static/media/bell.svg": "/lumens/static/media/bell.b09845c7f9a06bd729caee5c6486e812.svg",
+    "static/media/bell-2.svg": "/lumens/static/media/bell-2.dbf5fd0d39cddca93d79d2dae9491433.svg",
+    "static/media/user-2.svg": "/lumens/static/media/user-2.489e7788c8e58465572fd7cdd624edfb.svg",
     "index.html": "/lumens/index.html",
-    "static/media/home.svg": "/lumens/static/media/home.7b62ede131d8f748534d7106f264ad7f.svg",
-    "static/media/user-1.svg": "/lumens/static/media/user-1.574de4f50447597f2e70aef7a7d4a3a1.svg",
-    "static/media/card.svg": "/lumens/static/media/card.71a6126b42b626090a35a27060038307.svg",
-    "static/media/line-card.svg": "/lumens/static/media/line-card.bd4c91618953448527e3eae21a448f79.svg",
-    "static/media/point.svg": "/lumens/static/media/point.79bbd613554fd89089ea3a3120eb4e40.svg",
-    "main.8cef7122.css.map": "/lumens/static/css/main.8cef7122.css.map",
-    "main.d435d53f.js.map": "/lumens/static/js/main.d435d53f.js.map",
+    "static/media/home.svg": "/lumens/static/media/home.a71ffdb39eb41ac0301f42834fa6b89c.svg",
+    "static/media/user-1.svg": "/lumens/static/media/user-1.776ac1c94badd743059c4f3fe516851f.svg",
+    "static/media/card.svg": "/lumens/static/media/card.947855c55ed4d07af8841deebd39d5aa.svg",
+    "static/media/line-card.svg": "/lumens/static/media/line-card.64c16f29418a028a9d6628dae90788f7.svg",
+    "static/media/point.svg": "/lumens/static/media/point.4d32045751281615f749240b81fed459.svg",
+    "main.ac5419e0.css.map": "/lumens/static/css/main.ac5419e0.css.map",
+    "main.29594ae7.js.map": "/lumens/static/js/main.29594ae7.js.map",
     "787.2af910bd.chunk.js.map": "/lumens/static/js/787.2af910bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cef7122.css",
-    "static/js/main.d435d53f.js"
+    "static/css/main.ac5419e0.css",
+    "static/js/main.29594ae7.js"
   ]
 }
