@@ -1,0 +1,28 @@
+.menu {
+  display: grid;
+  align-items: center;
+  height: 96px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  p {
+    margin: 0px;
+    padding: 0px;
+  }
+  .card {
+    .line-card {
+      position: absolute;
+      right: 121px;
+    }
+  }
+  .bell {
+    position: relative;
+    .suf-bell {
+      position: absolute;
+      left: 43px;
+      top: 20px;
+    }
+    .point {
+      position: absolute;
+      left: 50px;
+    }
+  }
+}
