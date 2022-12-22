@@ -2,6 +2,7 @@
   "name": "luments",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://devic2202.github.io/lumens/",
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
