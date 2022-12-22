@@ -35,7 +35,7 @@
     position: relative;
     padding: 20px;
     width: 303px;
-    left: 22px;
+    left: 15px;
     text-align: left;
     border: 1px solid #FAFAFB;
     box-shadow: 0px 12px 18px rgba(23, 23, 37, 0.04);
@@ -82,5 +82,10 @@
   .ant-divider {
     margin: 0px !important;
     margin-top: 24px;
+  }
+}
+@media (min-width: 390px) {
+  .sub-title { 
+    left: 22px !important;
   }
 }
