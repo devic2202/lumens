@@ -9,8 +9,6 @@ Lumens.propTypes = {};
 
 function Lumens(props) {
   return (
-    // <Row gutter={32} type="flex">
-    //   <Col xs={24} md={12}>
     <div className="lumens">
       <div className="title">
         <p className="btn-back">
@@ -27,8 +25,8 @@ function Lumens(props) {
         <p className="value">340</p>
         <Progress percent={70} showInfo={false} />
         <p className="text">
-          You have paid rental fee for $1,200. Pay more $800 to achieve Gold
-          Tier.
+          You have paid rental fee for $1,200.
+          <br /> Pay more $800 to achieve Gold Tier.
         </p>
         <p className="text-tier">
           <a href="/">

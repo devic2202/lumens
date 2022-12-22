@@ -1,15 +1,14 @@
-
 .lumens-contain {
   h1 {
     text-align: left;
     padding-left: 25px;
     font-size: 18px;
-    line-height: 24px;  }
-    border: 1px solid #F1F1F5;
-/* Shadow - Low */
+    line-height: 24px;
+  }
+  border: 1px solid #f1f1f5;
 
-box-shadow: 0px 12px 18px rgba(23, 23, 37, 0.04);
-border-radius: 4px;
+  box-shadow: 0px 12px 18px rgba(23, 23, 37, 0.04);
+  border-radius: 4px;
 }
 .lumens-details {
   display: flex;
@@ -22,7 +21,7 @@ border-radius: 4px;
       text-align: left;
     }
     .value {
-      color: #0062FF;
+      color: #0062ff;
       font-size: 16px;
       line-height: 24px;
       font-weight: 600;
@@ -31,7 +30,7 @@ border-radius: 4px;
       font-weight: 400;
       font-size: 16px;
       line-height: 24px;
-      color: #92929D;
+      color: #92929d;
       padding: 0px 20px 0px 15px;
     }
   }
