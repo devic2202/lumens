@@ -18,11 +18,18 @@
     .suf-bell {
       position: absolute;
       left: 43px;
-      top: 20px;
+      top: 15px;
     }
     .point {
       position: absolute;
       left: 50px;
+      top: -5px;
+    }
+  }
+  .user {
+    p { 
+      margin: -5px;
+      padding: 0px;
     }
   }
 }

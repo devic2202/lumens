@@ -9,19 +9,22 @@ Lumens.propTypes = {};
 
 function Lumens(props) {
   return (
-    <div className="lumens">
+    <div className="lumens text-center" style={{textAlign: "center"}}>
       <div className="title">
         <p className="btn-back">
           <LeftOutlined />
         </p>
         <h1>Silver Tier</h1>
-        <p>
+        <p className="text">
           In Silver Tier, every $1 in rental fee paid, you get 2 coins to redeem
           exclusive rewards.
         </p>
       </div>
       <div className="sub-title">
         <div className="box">
+          <div></div>
+          <div></div>
+          <div></div>
           <div></div>
           <div></div>
           <div></div>
@@ -44,8 +47,16 @@ function Lumens(props) {
           <div></div>
           <div></div>
           <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
         </div>
-        <p className="title-value">Available Coin balance</p>
+        <span className="title-value">Available Coin balance</span>
         <p className="value">340</p>
         <Progress percent={70} showInfo={false} />
         <p className="text">

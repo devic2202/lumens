@@ -70,9 +70,19 @@ function LumensDetails(props) {
         <div className="lumens-details">
           {petrol.map((it) => (
             <div className="lumens-items">
-              <p>{it?.img}</p>
-              <p className="value">{it?.value}</p>
+              <span>{it?.img}</span>
+              <div style={{ display: "flex", paddingLeft: it?.link ? 15 : 0, marginBottom:it?.link ? -15 : 0}}>
+                {it?.link && (
+                  <p className="label">
+                    <span>L</span>
+                  </p>
+                )}
+                <p className={it?.link ? "insufficient" : "value"}>
+                  {it?.value}
+                </p>
+              </div>
               <p className="text">{it?.text}</p>
+              <p className="link">{it?.link}</p>
             </div>
           ))}
         </div>
@@ -82,7 +92,7 @@ function LumensDetails(props) {
         <div className="lumens-details">
           {rentalRebate.map((it) => (
             <div className="lumens-items">
-              <p>{it?.img}</p>
+              <span>{it?.img}</span>
               <p className="value">{it?.value}</p>
               <p className="text">{it?.text}</p>
             </div>
@@ -94,7 +104,7 @@ function LumensDetails(props) {
         <div className="lumens-details">
           {food.map((it) => (
             <div className="lumens-items">
-              <p>{it?.img}</p>
+              <span>{it?.img}</span>
               <p className="value">{it?.value}</p>
               <p className="text">{it?.text}</p>
             </div>
